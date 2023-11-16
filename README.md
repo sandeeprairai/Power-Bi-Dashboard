@@ -1,4 +1,4 @@
-## Understading the Power Bi Core feature
+##### Understading the Power Bi Core feature
 - Clean and Transform the data Using Power Query
 - Uses The DAX(Data Analysis Experssion) Feature of Power
 ![Sales_Performance_Report](https://github.com/sandeeprairai/Power-Bi-Dashboard/blob/main/sales1.PNG)
